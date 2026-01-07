@@ -2,7 +2,7 @@
 Adavance Data Analytics Project using GenAI, SQL, Python and PowerBI
 
 dashboard
-<img width="1012" height="818" alt="tb2" src="https://github.com/user-attachments/assets/b536496a-2ead-4598-b319-f09e627bc435" />
+<img width="1452" height="818" alt="adv1" src="https://github.com/user-attachments/assets/dd7a32a6-33d6-4cfb-b254-0df43297a1ed" />
 
 python code
 <img width="872" height="704" alt="py1" src="https://github.com/user-attachments/assets/e6083d9c-eaa2-46f6-8edc-e8b979c1c25d" />
